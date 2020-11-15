@@ -16,3 +16,4 @@
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 git clone https://github.com/updateing/minieap package/minieap
+git clone https://github.com/githuba/xmurp-ua package/xmurp-ua
